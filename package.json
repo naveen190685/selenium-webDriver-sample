@@ -24,5 +24,8 @@
   "scripts": {
     "format:fix": "prettier --write src/**/*.js",
     "test": "jest"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.19"
   }
 }
