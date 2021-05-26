@@ -5,7 +5,7 @@ import { Login } from "../pages/login";
 import { ACCOUNT_FORM } from "../pages/createAccountForm";
 import { UTIL } from "../util/util"
 import { error } from "selenium-webdriver";
-describe("Aura Code Challenge - Create User Account Tests", () => {
+describe("SELENIUM_TYPESCRIPT_SAMPLE - Create User Account Tests", () => {
   let I;
   beforeAll(() => {
     I = new Browser('chrome');
